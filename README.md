@@ -1,5 +1,5 @@
 # 🎮 Pokémon PC Collection (GBA)
-  Relise  : [Relises Update](https://github.com/xyvenqorix/PokemonPCCollectionGBA/releases/tag/Pok%C3%A9monPCCollection(GBA))
+Relise  : [Relises Update](https://github.com/xyvenqorix/PokemonPCCollectionGBA/releases/tag/Pok%C3%A9monPCCollection(GBA))
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](LICENSE)
 [![Motor](https://img.shields.io/badge/PortNativo-PC.svg)](https://mgba.io/)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-0078D6.svg?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
