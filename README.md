@@ -5,15 +5,17 @@
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-0078D6.svg?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Motor](https://img.shields.io/badge/RemasterPC-mGBA-8B5CF6.svg)](https://mgba.io/)
 
+Lanzador nativo optimizado para PC que reúne la colección completa de juegos de **Pokémon para Game Boy Advance (GBA)** en español dentro de una única interfaz gráfica ejecutable. 
+
+Incluye sincronización automática y persistente de las partidas guardadas (`.sav`) y de los estados de guardado rápido (`.ss*`) en una carpeta dedicada `save data`.
+
+
 ## 🖼️ Image
 
 <p align="center">
   <img src="https://i.ibb.co/Tx1MD4DQ/pok.jpg" alt="Captura del Port en PC" width="85%"/>
 </p>
 
-Lanzador nativo optimizado para PC que reúne la colección completa de juegos de **Pokémon para Game Boy Advance (GBA)** en español dentro de una única interfaz gráfica ejecutable. 
-
-Incluye sincronización automática y persistente de las partidas guardadas (`.sav`) y de los estados de guardado rápido (`.ss*`) en una carpeta dedicada `save data`.
 
 ---
 
