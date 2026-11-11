@@ -1,1 +1,68 @@
-# Pok-mon-PC-Collection-GBA-
+# 🎮 Pokémon PC Collection (GBA)
+
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](LICENSE)
+[![Plataforma](https://img.shields.io/badge/Plataforma-Windows-0078D6.svg?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Motor](https://img.shields.io/badge/Motor-mGBA-8B5CF6.svg)](https://mgba.io/)
+[![Lenguaje](https://img.shields.io/badge/Python-3.x-FACC15.svg?logo=python&logoColor=black)](https://www.python.org/)
+
+
+
+## 🖼️ Image
+
+<p align="center">
+  <img src="https://i.ibb.co/Tx1MD4DQ/pok.jpg" alt="Captura del Port en PC" width="85%"/>
+</p>
+
+Lanzador nativo optimizado para PC que reúne la colección completa de juegos de **Pokémon para Game Boy Advance (GBA)** en español dentro de una única interfaz gráfica ejecutable. 
+
+Incluye sincronización automática y persistente de las partidas guardadas (`.sav`) y de los estados de guardado rápido (`.ss*`) en una carpeta dedicada `save data`.
+
+---
+
+## 🚀 Características
+
+* **Selección de 5 Juegos:** Acceso rápido a las versiones *Rojo Fuego*, *Verde Hoja*, *Rubí*, *Zafiro* y *Esmeralda*.
+* **Persistencia de Partidas:** Copia y sincroniza automáticamente los archivos de guardado antes y después de cada sesión de juego.
+* **Interfaz Personalizada:** Tema oscuro adaptado al estilo de la franquicia.
+* **Ejecución Directa:** Todo empaquetado en una sola aplicación portable sin necesidad de instalación previa.
+
+---
+
+## 🕹️ Controles por Defecto (mGBA)
+
+| Acción Teclado | Botón GBA |
+| :--- | :--- |
+| `Z` | Botón B |
+| `X` | Botón A |
+| `Enter` | Start |
+| `Backspace` (Retroceso) | Select |
+| `Arriba` | Mover Arriba |
+| `Abajo` | Mover Abajo |
+| `Izquierda` | Mover Izquierda |
+| `Derecha` | Mover Derecha |
+| `Shift + F1..F9` | Guardar Estado (Quick Save) |
+| `F1..F9` | Cargar Estado (Quick Load) |
+
+---
+
+## 📦 Lista de Juegos Incluidos
+
+1. `Pokémon - Edición Rojo Fuego (Español)`
+2. `Pokémon - Edición Verde Hoja (Español)`
+3. `Pokémon - Edición Rubí (Español)`
+4. `Pokémon - Edición Zafiro (Español)`
+5. `Pokémon - Edición Esmeralda (Español)`
+
+---
+
+## 💾 Gestión de Guardado
+
+El lanzador administra automáticamente tus archivos de guardado:
+* **Persistencia Automática:** Toda partida guardada en el menú del juego o mediante guardado rápido se sincroniza automáticamente en la carpeta `save data`.
+* **Respaldos Portables:** Puedes mover la carpeta `save data` entre diferentes computadoras sin perder tu progreso.
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
