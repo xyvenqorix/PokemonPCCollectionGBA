@@ -2,10 +2,7 @@
 
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](LICENSE)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-0078D6.svg?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Motor](https://img.shields.io/badge/Motor-mGBA-8B5CF6.svg)](https://mgba.io/)
-[![Lenguaje](https://img.shields.io/badge/Python-3.x-FACC15.svg?logo=python&logoColor=black)](https://www.python.org/)
-
-
+[![Motor](https://img.shields.io/badge/RemasterPC-mGBA-8B5CF6.svg)](https://mgba.io/)
 
 ## 🖼️ Image
 
