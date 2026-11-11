@@ -1,6 +1,7 @@
 # 🎮 Pokémon PC Collection (GBA)
 
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](LICENSE)
+[![Motor](https://img.shields.io/badge/PortNativo-PC.svg)](https://mgba.io/)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-0078D6.svg?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Motor](https://img.shields.io/badge/RemasterPC-mGBA-8B5CF6.svg)](https://mgba.io/)
 
